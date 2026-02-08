@@ -21,7 +21,7 @@ After inspecting the output, I was able to locate the flag embedded within the b
 This challenge helped me understand that many binaries can be analyzed statically and that tools like `strings` are very useful before attempting any advanced exploitation.
 
 
-###PIE-Time Analysis
+### PIE-Time Analysis
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5975f933-2dce-4e04-be8e-70c17c1d8d89" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/70a7954a-414f-49c0-ade5-6b7a111260c1" />
 
